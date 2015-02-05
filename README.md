@@ -6,3 +6,4 @@ __eventharvest.py__ outputs 2 CSVs and as many KMLs as @USGSted tweets received 
 
 __Note:__ Twitter API login credentials need to be entered at lines 9-12 of eventharvest.py
 
+__Note:__ Deprecated since Jan 2015 update of http://earthquake.usgs.gov
